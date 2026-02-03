@@ -23,8 +23,7 @@
 
 ## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
-[![Akashx404 GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashx404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/akashx404)
-
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashx404&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&hide_title=true&text_color=ffffff&icon_color=00ffd1&bg_color=1F2428&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashx404&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/akashx404)
 
 ---
