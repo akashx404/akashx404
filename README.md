@@ -1,43 +1,54 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3500&pause=700&color=00FFD1&center=true&vCenter=true&width=780&lines=🤖+𝗔𝗸𝗮𝘀𝗵𝘅404;⚡+𝗚𝗶𝘁𝗛𝘂𝗯+𝗣𝗿𝗼𝗳𝗶𝗹𝗲" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3500&pause=700&color=00FFD1&center=true&vCenter=true&width=780&lines=👋+Hi+there!;🤖+I'm+Mohammad+Akash;💻+Tech+&+Education+Enthusiast" />
 
 <p style="font-size:16px; color:#d6fdf6;">
-🌱 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻𝗮𝗹 & 𝗧𝗲𝗰𝗵 • 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀  
+🚀 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 | 🛠 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗧𝗲𝗰𝗵 𝗣𝗿𝗼𝗳𝗶𝗹𝗲
 </p>
 
 <p style="font-size:14px; color:#b8fff3;">
-💡 𝗢𝗽𝗲𝗻-𝘀𝗼𝘂𝗿𝗰𝗲 • 🛡️ 𝗦𝗮𝗳𝗲 • 🤖 𝗦𝗺𝗮𝗿𝘁
+🌱 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 • 𝗘𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝗶𝗻𝗴 • 💡 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗳𝗼𝗿 𝗲𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
 </p>
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&labelColor=1F2428"/>
-<img src="https://img.shields.io/badge/Top-Languages-blue?style=for-the-badge&logo=github&labelColor=1F2428"/>
-</div>
+## 🌟 About Me
+
+> 👨‍🎓 Just a student exploring tech and coding.  
+> 💡 All projects here are **educational & personal use only**.  
+> 🚫 No abuse, no misuse, no harm intended.  
+> 🔗 [Portfolio](https://akashbotdev.onrender.com)
 
 ---
 
-## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
+## 🛠 Skills & Tech
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashx404&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&hide_title=true&text_color=ffffff&icon_color=00ffd1&bg_color=1F2428&hide_rank=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashx404&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/akashx404)
-
----
-
-## ⚙️ 𝗠𝘆 𝗪𝗼𝗿𝗸
-
-- 🚀 **Learning & experimenting with tech projects**  
-- 💻 **Open-source contributions**  
-- 🎓 **Education-focused automation & coding**  
-- 🌱 **Safe & responsible coding**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 🌐 𝗖𝗼𝗻𝗻𝗲𝗰𝘁
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashx404&show_icons=true&count_private=true&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashx404&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## 💻 Featured Projects
+
+- [GOAT-ADVANCED](https://github.com/akashx404/GOAT-ADVANCED) — Custom Goat Bot V2 fork for learning & experimentation.  
+- [Portfolio](https://akashbotdev.onrender.com) — My personal tech projects showcase.
+
+---
+
+## 🌐 Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arakashiam)  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arakashiam)  
@@ -46,8 +57,9 @@
 
 ---
 
-## ⚠️ 𝗗𝗶𝘀𝗰𝗹𝗮𝗶𝗺𝗲𝗿
+## ⚠️ Disclaimer
 
-All projects are for **educational purposes only**.  
-🚫 No abuse, misuse, or harmful activities.  
-🛡️ Respect open-source developers and platforms.
+This profile is for **educational & personal learning purposes only**.  
+I do **not promote abuse, misuse, or harmful activities**.  
+
+❤️ Respect open-source developers & always keep credits.
