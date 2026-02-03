@@ -1,8 +1,16 @@
-<div align="center">
-  
-# 💻 Mohammad Akash
+# 💻 Mohammad Akash  
 ### Full-Stack Developer | AI Innovator | Tech Content Creator
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=akashx404&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=000000)
+![Followers](https://img.shields.io/github/followers/akashx404?style=for-the-badge&label=Followers&color=0e75b6&logoColor=white)
+![Stars](https://img.shields.io/github/stars/akashx404?style=for-the-badge&label=Total%20Stars&color=gold)
+
+</div>
+
+<div align="center">
+  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashx404)
@@ -72,17 +80,6 @@
 <div align="center">
   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akashx404&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
-
-</div>
-
----
-
-## 📈 Profile Views
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=akashx404&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/akashx404?style=for-the-badge&label=Followers&color=0e75b6)
 
 </div>
 
