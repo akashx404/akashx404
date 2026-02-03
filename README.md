@@ -1,43 +1,54 @@
-# ⚡ EDUCATIONAL TECH EXPLORER ⚡
+<div align="center">
 
-![Profile Image](https://i.imgur.com/n8N1KcA.jpeg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3500&pause=700&color=00FFD1&center=true&vCenter=true&width=780&lines=🤖+𝗔𝗸𝗮𝘀𝗵𝘅404;⚡+𝗚𝗶𝘁𝗛𝘂𝗯+𝗣𝗿𝗼𝗳𝗶𝗹𝗲" />
 
-Learning & experimenting with tech • Projects for education only • No misuse or abuse
+<p style="font-size:16px; color:#d6fdf6;">
+🌱 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻𝗮𝗹 & 𝗧𝗲𝗰𝗵 • 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀  
+</p>
 
----
+<p style="font-size:14px; color:#b8fff3;">
+💡 𝗢𝗽𝗲𝗻-𝘀𝗼𝘂𝗿𝗰𝗲 • 🛡️ 𝗦𝗮𝗳𝗲 • 🤖 𝗦𝗺𝗮𝗿𝘁
+</p>
 
-## 👨‍💻 About Me
-
-Just a student exploring technology, building learning projects, and sharing open-source experiments.  
-All work is for **educational purposes only**.
-
----
-
-## 🛠 Skills
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![OpenSource](https://img.shields.io/badge/OpenSource-blue?style=for-the-badge)
-![Bots](https://img.shields.io/badge/Bots-🤖-orange?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
 
 ---
 
-## 🌐 Connect
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&labelColor=1F2428"/>
+<img src="https://img.shields.io/badge/Top-Languages-blue?style=for-the-badge&logo=github&labelColor=1F2428"/>
+</div>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arakashiam)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arakashiam)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashx404)
+---
+
+## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
+
+[![Akashx404 GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashx404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/akashx404)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashx404&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/akashx404)
+
+---
+
+## ⚙️ 𝗠𝘆 𝗪𝗼𝗿𝗸
+
+- 🚀 **Learning & experimenting with tech projects**  
+- 💻 **Open-source contributions**  
+- 🎓 **Education-focused automation & coding**  
+- 🌱 **Safe & responsible coding**
+
+---
+
+## 🌐 𝗖𝗼𝗻𝗻𝗲𝗰𝘁
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arakashiam)  
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arakashiam)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashx404)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@akashbotdev)
 
 ---
 
-## 📊 GitHub Stats
+## ⚠️ 𝗗𝗶𝘀𝗰𝗹𝗮𝗶𝗺𝗲𝗿
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashx404&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashx404&layout=compact&theme=radical)
-
----
-
-⚠️ All projects are for **educational purposes only**.  
-I am not responsible for misuse or abuse.
+All projects are for **educational purposes only**.  
+🚫 No abuse, misuse, or harmful activities.  
+🛡️ Respect open-source developers and platforms.
