@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Akash</h1>
-<h3 align="center">🚀 Full-Stack Enthusiast | AI Explorer | Tech Creator | Content Maker</h3>
+<h3 align="center">🚀 Full-Stack Developer | AI Explorer | Content Creator | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/akashx404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -12,10 +12,9 @@
 ---
 
 ## 📝 About Me
-- 🔭 I’m currently working on **Goat Bot v2 Messenger Chatbot**  
-- 🌱 I’m learning **AI, Python, and Full-Stack Development**  
-- 💬 Ask me about **AI, programming, tech hacks, YouTube content creation**  
-- 📫 How to reach me: **akashx404@gmail.com**  
+- 🔭 Working on **Goat Bot v2 Messenger Chatbot**  
+- 🌱 Learning **AI, Python, Full-Stack Development**  
+- 💬 Ask me about **Tech, Programming, AI, YouTube Content**  
 - ⚡ Fun fact: **I make people laugh while coding 😎**
 
 ---
@@ -23,12 +22,12 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashx404&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akashx404&theme=radical&hide_border=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akashx404&theme=radical" />
 </div>
 
 ---
 
-## 💻 Languages & Tools
+## 👨‍💻 Languages & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -38,7 +37,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
 ---
@@ -47,7 +45,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **Goat Bot v2** | AI Messenger Chatbot | [GitHub](https://github.com/akashx404/goat-bot-v2) |
-| **Funny Content Scripts** | Scripts for YouTube funny videos | [GitHub](https://github.com/akashx404) |
+| **Funny Content Scripts** | Scripts for YouTube videos | [GitHub](https://github.com/akashx404) |
 | **BGIFT Automation** | Learning & Science Projects | [GitHub](https://github.com/akashx404) |
 
 ---
@@ -58,6 +56,13 @@
   <img src="https://img.shields.io/badge/AI%20Explorer-Expert-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Content%20Creator-Youtube-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Goat%20Bot-MVP-green?style=for-the-badge"/>
+</div>
+
+---
+
+## 👀 Visitors
+<div align="center">
+  <img src="https://profile-counter.glitch.me/akashx404/count.svg" alt="Visitor Count" />
 </div>
 
 ---
