@@ -1,66 +1,43 @@
 <div align="center">
 
-  <!-- Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3500&pause=700&color=00FFD1&center=true&vCenter=true&width=700&lines=🤖+𝐓𝐞𝐜𝐡+&+𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠;💡+𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥+𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬" />
+<img src="https://i.imgur.com/n8N1KcA.jpeg" width="200px" alt="Profile Image" />
 
-  <!-- Subtitle -->
-  <p style="font-size:15px; color:#d6fdf6; margin-top:8px;">
-    🎓 Learning • 🌱 Experimenting • 💡 Tech
-  </p>
+<h1>🎓 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗧𝗘𝗖𝗛 𝗘𝗫𝗣𝗟𝗢𝗥𝗘𝗥</h1>
 
-  <p style="font-size:14px; color:#b8fff3; margin-bottom:20px;">
-    🚫 No misuse • 🚫 No abuse • Educational purposes only
-  </p>
-
-  <!-- Badges -->
-  <div>
-    <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OpenSource-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Bots-🤖-orange?style=for-the-badge"/>
-  </div>
+<p>Learning & experimenting with tech • Projects for education only • No misuse or abuse</p>
 
 </div>
 
 ---
 
-<div align="center" style="background:#111; padding:15px; border-radius:15px; box-shadow:0 0 12px #00FFD1; max-width:700px; margin:auto;">
-
-<h3 style="color:#00FFD1;">🌟 About Me</h3>
-<p style="color:#d0d0d0; line-height:1.5;">
-Just a student exploring tech, automation & open-source.  
-Focused on educational & learning projects only.
-</p>
-
-<h3 style="color:#ffb84d;">🛠 Skills</h3>
-<ul style="color:#d0d0d0; list-style:none; padding-left:0; line-height:1.5;">
-<li>🤖 Custom bots & automation</li>
-<li>🌐 Web & Node.js development</li>
-<li>📊 Data learning & experiments</li>
-</ul>
-
-<h3 style="color:#00ffcc;">🔗 Connect</h3>
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:8px;">
-<a href="https://facebook.com/arakashiam" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://t.me/arakashiam" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://github.com/mdakashproject" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://youtube.com/@akashbotdev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</div>
-
-<h3 style="color:#ff4d88;">⚠️ Disclaimer</h3>
-<p style="color:#d0d0d0; line-height:1.4;">
-All projects are for <strong>educational purposes only</strong>.  
-I am not responsible for misuse or violations.
-</p>
-
-</div>
+## 👨‍💻 About Me
+Just a student exploring technology, building learning projects and sharing open-source experiments.  
+All work is for **educational purposes only**.
 
 ---
 
-<!-- GitHub Stats -->
-<div align="center">
-  <h3 style="color:#00FFD1;">📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=mdakashproject&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <h3 style="color:#ffb84d;">🏆 Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashproject&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+## 🛠 Skills
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenSource-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bots-🤖-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+
+---
+
+## 🌐 Connect
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arakashiam)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arakashiam)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdakashproject)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@akashbotdev)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mdakashproject&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashproject&layout=compact&theme=radical)
+
+---
+
+⚠️ All projects are for **educational purposes only**.  
+I am not responsible for misuse or abuse.
