@@ -53,3 +53,14 @@ I am not responsible for misuse or violations.
 </p>
 
 </div>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+  <h3 style="color:#00FFD1;">📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdakashproject&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <h3 style="color:#ffb84d;">🏆 Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashproject&layout=compact&theme=radical" alt="Top Languages" />
+</div>
