@@ -25,10 +25,10 @@
 
 🚀 **Passionate developer** with expertise in building scalable web applications and exploring cutting-edge AI technologies. I specialize in creating innovative solutions that bridge the gap between technology and user experience.
 
-- 🔭 **Currently working on:** Goat Bot v2 - AI-powered Messenger Chatbot
-- 🌱 **Currently learning:** Advanced AI/ML, System Design, Cloud Architecture
-- 💡 **Interests:** Artificial Intelligence, Web3, Open Source, Tech Education
-- 🎯 **Goal:** To build products that simplify complex problems
+- 🔭 **Currently working on:** Goat Bot v2 - AI-powered Messenger Chatbot  
+- 🌱 **Currently learning:** Advanced AI/ML, System Design, Cloud Architecture  
+- 💡 **Interests:** Artificial Intelligence, Web3, Open Source, Tech Education  
+- 🎯 **Goal:** To build products that simplify complex problems  
 - ⚡ **Fun fact:** I believe the best code is written with coffee ☕
 
 ---
@@ -88,19 +88,19 @@
 ## 🔥 Featured Projects
 
 ### 🤖 **Goat Bot v2** - AI Messenger Chatbot
-> Advanced AI-powered chatbot with natural language processing capabilities
-- **Tech:** Python, FastAPI, OpenAI, MongoDB
-- **Features:** Context-aware conversations, multi-platform support, analytics dashboard
+> Advanced AI-powered chatbot with natural language processing capabilities  
+- **Tech:** Python, FastAPI, OpenAI, MongoDB  
+- **Features:** Context-aware conversations, multi-platform support, analytics dashboard  
 - [View Repository](https://github.com/akashx404/goat-bot-v2)
 
 ### 🌐 **Modern E-Commerce Platform**
-> Full-stack e-commerce solution with real-time features
-- **Tech:** Next.js, TypeScript, Node.js, Stripe
+> Full-stack e-commerce solution with real-time features  
+- **Tech:** Next.js, TypeScript, Node.js, Stripe  
 - **Features:** Real-time inventory, payment gateway, admin dashboard
 
 ### 📊 **Data Visualization Dashboard**
-> Interactive dashboard for business intelligence
-- **Tech:** React, D3.js, Express.js, PostgreSQL
+> Interactive dashboard for business intelligence  
+- **Tech:** React, D3.js, Express.js, PostgreSQL  
 - **Features:** Real-time charts, data filtering, export functionality
 
 ---
@@ -124,6 +124,16 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arakashprofb)
 
 </div>
+
+---
+
+## ⚠️ Disclaimer
+
+This GitHub profile and all repositories/projects are created **for educational and learning purposes only**.  
+No part of these projects should be used for illegal activities or malicious purposes.  
+The owner is **not responsible** for any misuse, policy violation, or unintended consequences arising from the use of the code or resources provided here.  
+
+By using or viewing this profile and its content, you agree to use all code responsibly and ethically.
 
 ---
 
