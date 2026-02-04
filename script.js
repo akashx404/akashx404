@@ -52,7 +52,7 @@
 // Console welcome message with updated links
 console.log('%c👋 Welcome to Akash\'s Portfolio!', 'color: #00eaff; font-size: 18px; font-weight: bold;');
 console.log('%c🎯 Developer: Mohammad Akash', 'color: #9bb1ff; font-size: 14px;');
-console.log('%c🚀 GitHub: https://github.com/akashbotdev07', 'color: #00ff9d; font-size: 14px;');
+console.log('%c🚀 GitHub: https://github.com/akashx404', 'color: #00ff9d; font-size: 14px;');
 console.log('%c🎥 YouTube: https://youtube.com/@akashbotdev', 'color: #ff0000; font-size: 14px;');
 console.log('%c📱 Telegram: https://t.me/akashbotdev', 'color: #0088cc; font-size: 14px;');
-console.log('%c🤖 GOAT BOT: https://github.com/akashbotdev07/GOAT-BOT-AKASH-V2', 'color: #7289da; font-size: 14px;');
+console.log('%c🤖 GOAT BOT: https://github.com/akashx404/GOAT-ADVANCED', 'color: #7289da; font-size: 14px;');
