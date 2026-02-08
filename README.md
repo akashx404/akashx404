@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=akashx404&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=akashx404&label=Profile%200Views&color=0e75b6&style=for-the-badge&labelColor=000000)
 ![Followers](https://img.shields.io/github/followers/akashx404?style=for-the-badge&label=Followers&color=0e75b6&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/akashx404?style=for-the-badge&label=Total%20Stars&color=gold)
 
